@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+    	"email-domain-validator": "^2.0.1"
+	}
+}

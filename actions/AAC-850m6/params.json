@@ -1,0 +1,30 @@
+{
+    "category": "plugins",
+    "display": "Validate an Email",
+    "fields": {
+        "AAD": {
+            "caption": "email",
+            "doc": "The email you need to validate",
+            "editor": "DynamicValue",
+            "name": "email",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAP": {
+            "caption": "Thanks for purchasing our Flusk plugin. 😍 Did you know you have 100% cash-back on our other products when purchasing a plugin? 👉  Get your money right back away at https://flusk.eu",
+            "editor": "Label",
+            "name": "info",
+            "rank": 0
+        }
+    },
+    "return_value": {
+        "AAE": {
+            "caption": "is_valid",
+            "name": "is_valid",
+            "rank": 0,
+            "value": "boolean"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}

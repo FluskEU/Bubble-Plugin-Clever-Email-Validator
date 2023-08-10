@@ -1,0 +1,39 @@
+{
+    "category": "plugins",
+    "display": "Validate a list of Emails",
+    "fields": {
+        "AAL": {
+            "caption": "emails",
+            "doc": "A list of the emails you need to validate as ONE STRING, with emails separated by a comma. Example : \"test@test.com, xxx@yyy.de, hhh@ppp.com\"",
+            "editor": "DynamicValue",
+            "is_list": false,
+            "name": "emails",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAM": {
+            "caption": "Are all valid",
+            "name": "are_all_valid",
+            "rank": 0,
+            "value": "boolean"
+        },
+        "AAN": {
+            "caption": "Error messages",
+            "is_list": true,
+            "name": "error_messages",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAO": {
+            "caption": "Invalid Email List",
+            "is_list": true,
+            "name": "invalid_email_list",
+            "rank": 2,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}

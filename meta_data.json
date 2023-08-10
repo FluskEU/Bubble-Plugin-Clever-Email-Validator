@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "compliance",
+        "1": "data (things)",
+        "2": "productivity",
+        "3": "technical",
+        "4": "email"
+    },
+    "demo_page": "https://clever-email-validator-demo.bubbleapps.io/version-test",
+    "description": "[🚀 WU Optimized] The easiest way to check if an email really exist with a powerful NPM package by checking host & email exchange (MX) using DNS protocol.\nAvailable in backend and frontend.\nYou can check multiple emails at one time.\n\n-------------\n\n🔗 Documentation, Editor & Demo : https://www.flusk.eu/plugins/clever-email-validator\n\n-------------\n\n✔️ FEATURES \n\n- Check email validity\n- Check multiple email validity at one time\n- Checking host & email exchange (MX) using DNS protocol\n- Extra email string validation using JOI\n\n-------------\n\nBenefits of using Flusk plugins.\n\n✅ High maintainability & reliability\nAll our plugins are regularly reviewed and updated\n\n📞 Immediate and premium support for free\nVisit the plugin page to get free live assistance with setting up the plugin\n\n📚 Complete documentation and tutorials\nEach plugin comes with complete documentation and video tutorials\n\n💸 100% CASHBACK ON ALL OUR PLUGINS\nVisit our plugin page and get 100% cashback on your purchase\n\n\nIf you have any questions or suggestions about this plugin, please use the chat on our website.\nWe always answer within a few minutes during business days.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1676458685680x690436208707521300/Mail%20Validator%20gif.gif",
+    "license": "open_source",
+    "link": "https://www.flusk.eu/plugins/clever-email-validator",
+    "name": "Clever Email Validator",
+    "plugin_instructions": "Add the action 'Validate an email' inside a workflow.\n\nMap the input field to any email or string\n\nThe result is available in the \"Result of step X\""
+}
